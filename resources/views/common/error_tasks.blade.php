@@ -5,4 +5,3 @@
         @endforeach
     </ul>
 @endif
-そして呼び出し側

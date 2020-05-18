@@ -9,7 +9,7 @@
 
     <body>
         
-        @include('commons.error_tasks')
+        @include('common.error_tasks')
         
         @include('common.navbar')
         
