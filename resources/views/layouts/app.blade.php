@@ -9,6 +9,8 @@
 
     <body>
         
+        @include('commons.error_tasks')
+        
         @include('common.navbar')
         
         <div class="container">
